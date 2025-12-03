@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tlfAx6SK0PeIPLHElLTsYJ8vB3eZeRZyeVSv1p+KyMi/HMq1GElzCsPCghWRPN6FkCMK7C4Vy6FhkNsoc9nb2g==",
+  "success": true,
+  "projectFilePath": "D:\\ESG\\EndScriptGen\\EndScriptGen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anupa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Anupa\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Anupa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Anupa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
